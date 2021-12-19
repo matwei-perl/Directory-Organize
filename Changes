@@ -1,3 +1,23 @@
+Revision history for Perl extension CheckDigits.
+
+v1.0.1 Sun Dec 19 18:38:08 CET 2021
+	- move on GitHub
+	- clean up repository
+
+2018-05-07 19:32 CEST (mathias) v1.0.0
+	- minor corrections in documentation
+
+2018-04-27 19:38 CEST (mathias) v0.9.9
+	- t/script-mkdir_heute: disable Term::ReadKey for tests
+
+2018-04-27 16:11 CEST (mathias) v0.9.8
+	- setting version to normalized string
+
+2018-04-27 15:15 CEST (mathias) Version 0.9.7
+	- mkdir_heute: command line options to delimit column width and
+	  to switch off Term::ReadKey usage
+	- limit columns in output
+
 2012-07-20 18:45 CEST (mathias) Version 0.9.6
 	- t/script-mkdir_heute: skip test on MSWin32
 

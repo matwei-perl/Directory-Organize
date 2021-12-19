@@ -1,0 +1,10 @@
+blib/
+_build/
+Build
+Directory-Organize-*
+MANIFEST.bak
+META.json
+META.yml
+MYMETA.json
+MYMETA.yml
+t/2008/
