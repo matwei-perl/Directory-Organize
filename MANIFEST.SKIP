@@ -1,41 +1,15 @@
+.bak$
+_build
+Build$
 \bDirectory-Organize\b
 \bTODO\b
-^t/\d\d\d\d
+.git
+Makefile$
+.mtn-ignore
+MYMETA.*
 \.project$
 ^schedule.sc$
 ^single$
-^Spezifikation.txt$
-
-# Avoid version control files.
-\bRCS\b
-\bCVS\b
-^\.git$
-^\.git/
-^\.gitignore$
-\b_MTN\b
-\.mtn-ignore$
-,v$
-\B\.svn\b
-
-# Avoid Makemaker generated and utility files.
-\bMakefile$
-\bblib
-\bMakeMaker-\d
-\bpm_to_blib$
-\bblibdirs$
-^MANIFEST\.SKIP$
-
-# Avoid Module::Build generated and utility files.
-\bBuild$
-\b_build
-
-# Avoid temp and backup files.
-~$
-\.tmp$
-\.old$
-\.bak$
-\#$
-\b\.#
-\.swp$
-^MYMETA\.yml$
-^MYMETA\.json$
+Spezifikation.txt
+.swp$
+^t/\d\d\d\d
