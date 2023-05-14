@@ -195,7 +195,7 @@ __END__
 
 mkdir_heute - create and find directories interactive
 
-=head SYNOPSIS
+=head1 SYNOPSIS
 
   mkdir_heute
 
@@ -280,8 +280,6 @@ Limit the displaywidth to the given number of columns.
 
   mkdir_heute -c 80
 
-=back
-
 =item --listlines
 
 Limit the number of listed lines.
@@ -290,8 +288,6 @@ This should be 4 lines less than your screen provides.
   mkdir_heute --listlines=21
 
   mkdir_heute -l 15
-
-=back
 
 =item --termreadkey / --notermreadkey
 
